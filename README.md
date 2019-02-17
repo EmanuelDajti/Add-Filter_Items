@@ -1,2 +1,2 @@
-# Add-Filter_Items
+# Add&Filter_Items
 Adding and filtering items using Vanilla JavaScript
